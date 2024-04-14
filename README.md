@@ -6,9 +6,9 @@ The Eye-Controlled Cursor and Dashboard project addresses the critical need for 
 2. To start the controller.py file
    a. Open the terminal and download the required libraries
    ``` pip install opencv-python
-    ```
+   ```
    ``` pip install mediapipe
-    ```
+   ```
    ``` pip install pyautogui
    ```
    b. Now enter the command in the terminal to start the file
