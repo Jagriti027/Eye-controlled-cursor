@@ -4,6 +4,7 @@ The Eye-Controlled Cursor and Dashboard project addresses the critical need for 
 # How to start the project?
 1. Open the files controller.py and dashboard.py in different windows of vs code.
 2. To start the controller.py file
+   
    a. Open the terminal and download the required libraries
    ``` python
    pip install opencv-python
@@ -18,6 +19,9 @@ The Eye-Controlled Cursor and Dashboard project addresses the critical need for 
    ``` python
    python controller.py
    ```
-4. To start the dashboard.py file
-5. 
+3. To start the dashboard.py file
+   a. Open the terminal and enter the command to start the file
+   ``` python
+   python dashboard.py
+   ```
    
