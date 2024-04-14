@@ -20,6 +20,7 @@ The Eye-Controlled Cursor and Dashboard project addresses the critical need for 
    python controller.py
    ```
 3. To start the dashboard.py file
+
    a. Open the terminal and enter the command to start the file
    ``` python
    python dashboard.py
