@@ -5,5 +5,11 @@ The Eye-Controlled Cursor and Dashboard project addresses the critical need for 
 1. Open the files controller.py and dashboard.py in different windows of vs code.
 2. To start the controller.py file
    a. Open the terminal and download the required libraries
-   ```python pip install opencv-python ```
+   ``` pip install opencv-python ```
+   ``` pip install mediapipe ```
+   ``` pip install pyautogui ```
+   b. Now enter the command in the terminal to start the file
+   ``` python controller.py ```
+3. To start the dashboard.py file
+4. 
    
