@@ -19,5 +19,11 @@ The Eye-Controlled Cursor and Dashboard project addresses the critical need for 
    ``` python
    python controller.py
    ```
+3. Similarly to start the dashboard.py file
+
+   Open the new terminal in new window for dashboard file and write the code
+   ```python
+   python dashboard.py
+   ```
 
    
